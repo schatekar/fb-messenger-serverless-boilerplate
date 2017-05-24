@@ -10,5 +10,6 @@ This is a boilerplate code demostrating [Facebook Messenger Platform](https://de
 That's it. You are setup. Now if you send a message to your page using FB messenger app, it will respond with `Pingback: {original message}`
 
 # The Architecture
+Every time Facebook 
 
 # Code walkthrough
